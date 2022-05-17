@@ -1,0 +1,1 @@
+const CORRECT_NUMBER = Number("15");
